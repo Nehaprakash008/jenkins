@@ -8,6 +8,7 @@ public class SpringnodbApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringnodbApplication.class, args);
+		System.out.println("Hi");
 	}
 
 }
